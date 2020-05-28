@@ -1,6 +1,10 @@
-- name: Home
+- name: Alex
   link: /
-- name: Thoughts
-  link: /thoughts/
 - name: About
   link: /about/
+- name: Thoughts
+  link: /thoughts/
+- name: Projects
+  link: /projects/
+- name: Learning
+  link: /learning/
